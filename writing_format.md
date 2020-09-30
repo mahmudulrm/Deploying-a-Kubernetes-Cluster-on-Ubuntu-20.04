@@ -35,7 +35,7 @@ $ sudo hostnamectl set-hostname kube-master
 ```bash
 $ sudo hostnamectl set-hostname kube-node1
 ```
-****Initialize Kubernetes Master Server**
+**Initialize Kubernetes Master Server**
 
 **On Master Machine**
 ```bash
